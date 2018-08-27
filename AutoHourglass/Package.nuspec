@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>kenjiuno.$id$</id>
+    <version>$version$</version>
+    <authors>kenjiuno</authors>
+    <owners>kenjiuno</owners>
+    <projectUrl>https://github.com/HiraokaHyperTools/AutoHourglass</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>My release.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>AH $id$</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
